@@ -1,4 +1,11 @@
+/*
+ * File: CompositeP2Updater.java.
+ * Created by Donat Csikos<dcsikos@cern.ch> at 3 Dec 2011.
+ *
+ * Copyright CERN 2011, All Rights Reserved.
+ */
 package cern.devtools.updatep2.rest;
+
 import java.io.File;
 import java.io.FileWriter;
 import java.io.IOException;

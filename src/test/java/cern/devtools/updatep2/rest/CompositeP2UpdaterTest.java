@@ -1,3 +1,9 @@
+/*
+ * File: CompositeP2UpdaterTest.java.
+ * Created by Donat Csikos<dcsikos@cern.ch> at 3 Dec 2011.
+ *
+ * Copyright CERN 2011, All Rights Reserved.
+ */
 package cern.devtools.updatep2.rest;
 
 import org.junit.Test;
